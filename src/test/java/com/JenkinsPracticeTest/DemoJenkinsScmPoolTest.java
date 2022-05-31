@@ -11,10 +11,10 @@ public class DemoJenkinsScmPoolTest {
 		
 		System.out.println("Welcome to Jenkins");
 		
-		Reporter.log("Welcome to testng report");
+		System.out.println("Welcome to testng report");
 		
-		Reporter.log("Welcome to github report1");
+		System.out.println("Welcome to github report1");
 		
-		Reporter.log("Welcome to jenkins report");
+		System.out.println("Welcome to jenkins report");
 	}
 }
